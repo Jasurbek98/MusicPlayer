@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Current/Projects/MediaPlayer/app/src/main/res/layout/custom_view.xml" value="0.3536458333333333" />
+        <entry key="..\:/Current/Projects/MediaPlayer/app/src/main/res/layout/fragment_music_list.xml" value="0.3536458333333333" />
+        <entry key="..\:/Current/Projects/MediaPlayer/app/src/main/res/layout/fragment_music_play.xml" value="0.3536458333333333" />
+        <entry key="..\:/Current/Projects/MediaPlayer/app/src/main/res/layout/fragment_splash.xml" value="0.3536458333333333" />
+        <entry key="..\:/Current/Projects/MediaPlayer/app/src/main/res/layout/item_info_image.xml" value="0.3536458333333333" />
+        <entry key="..\:/Current/Projects/MediaPlayer/app/src/main/res/layout/music_item.xml" value="0.3536458333333333" />
+        <entry key="..\:/Current/Projects/MediaPlayer/app/src/main/res/layout/notification_player.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable-v24/ic_previous_white.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable-v24/line_divider.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_baseline_close.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_baseline_pause_white.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_baseline_play_white.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_favorite.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_nav_menu.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_next.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_next_white.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_pause.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_pause_white.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_play.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_play_white.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_previous.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_previous_white.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_repeat.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_repeat_selected.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_search.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_shuffle.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_shuffle_selected.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_sorted.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_volume_down.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_volume_mute.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_volume_off.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/ic_volume_up.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/drawable/play_button_bg.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/layout/custom_view.xml" value="0.371875" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/layout/fragment_music_list.xml" value="0.2892768079800499" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/layout/fragment_music_play.xml" value="0.33" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/layout/fragment_permission.xml" value="0.371875" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/layout/fragment_splash.xml" value="0.3578125" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/layout/item_info_image.xml" value="0.36564102564102563" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/layout/music_item.xml" value="0.371875" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/layout/notification_player.xml" value="0.37604166666666666" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/menu/navigation_menu.xml" value="0.371875" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/menu/toolbae_menu.xml" value="0.371875" />
+        <entry key="..\:/Users/User/FlutterProjects/MediaPlayer/app/src/main/res/menu/toolbar_options.xml" value="0.371875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

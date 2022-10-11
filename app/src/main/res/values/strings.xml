@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aralashtirish">Aralashtirish</string>
+    <string name="sorted">Saralanganlar</string>
+    <string name="example_song">Oddiy bola</string>
+    <string name="example_author">Shoxruhxon</string>
+    <string name="search">Search</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="theme">Theme</string>
+
+    <string name="name_notification_channel">ServicePractice</string>
+    <string name="description_notification_channel">Simple description</string>
+
+</resources>

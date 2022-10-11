@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/music_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:selectableItemBackground">
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/music_order"
+        style="@style/TextLarge"
+        android:layout_marginStart="15dp"
+        android:fontFamily="@font/inter_bold"
+        app:layout_constraintBottom_toBottomOf="@id/image"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/image"
+        tools:text="1" />
+
+
+    <ImageView
+        android:id="@+id/image"
+        style="@style/DefaultImageViewStyle"
+        android:layout_width="52dp"
+        android:layout_height="52dp"
+        android:layout_marginVertical="10dp"
+        android:layout_marginStart="15dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/ic_music_icon"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@id/music_order"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/music_name"
+        style="@style/TextLarge"
+        android:layout_width="0dp"
+        android:layout_marginStart="20dp"
+        android:ellipsize="end"
+        android:fontFamily="@font/inter_bold"
+        android:maxLines="1"
+        app:layout_constraintBottom_toTopOf="@id/music_author"
+        app:layout_constraintEnd_toStartOf="@+id/music_duration"
+        app:layout_constraintStart_toEndOf="@id/image"
+        app:layout_constraintTop_toTopOf="@id/image"
+        tools:text="Oddiy bola" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/music_author"
+        style="@style/TextMedium"
+        android:layout_width="0dp"
+        android:fontFamily="@font/inter_regular"
+        app:layout_constraintBottom_toBottomOf="@id/image"
+        app:layout_constraintEnd_toStartOf="@+id/music_duration"
+        app:layout_constraintStart_toStartOf="@id/music_name"
+        app:layout_constraintTop_toBottomOf="@id/music_name"
+        tools:text="Shoxruhxon" />
+
+    <ImageButton
+        android:id="@+id/musicItemMoreButton"
+        style="@style/DefaultImageButtonStyle"
+        android:layout_margin="10dp"
+        android:background="?android:selectableItemBackgroundBorderless"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/ic_more"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/music_duration"
+        style="@style/TextMedium"
+        android:layout_width="wrap_content"
+        android:layout_marginEnd="10dp"
+        android:fontFamily="@font/inter_regular"
+        app:layout_constraintBottom_toBottomOf="@id/musicItemMoreButton"
+        app:layout_constraintEnd_toStartOf="@id/musicItemMoreButton"
+        app:layout_constraintTop_toTopOf="@id/musicItemMoreButton"
+        tools:text="05:17" />
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="15dp"
+        android:alpha="0.7"
+        android:background="@color/hint_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@id/music_name"
+        app:layout_constraintTop_toBottomOf="@id/image" />
+</androidx.constraintlayout.widget.ConstraintLayout>
